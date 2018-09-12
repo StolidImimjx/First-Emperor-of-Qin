@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="winIcon">images/regedittool.jpg</file>
+    </qresource>
+</RCC>
